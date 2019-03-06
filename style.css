@@ -27,7 +27,7 @@ h1{
 
 .talk{
   text-align: left;
-  padding-top: 16px;
+  padding-top: 14px;
   font-size: 16px;
   font-weight: 600;
 }
@@ -58,6 +58,11 @@ img:hover{
     padding-top: 4px;
     max-width: 90vw;
   }
+
+  .talk{
+      padding-top: 8px;
+  }
+
   .note{
     vertical-align: top;
     max-width: 94vw;
