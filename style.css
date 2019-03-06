@@ -61,6 +61,11 @@ img:hover{
 
   .talk{
       padding-top: 8px;
+      max-width: 90vw;
+  }
+
+  .speaker{
+    max-width: 90vw;
   }
 
   .note{
